@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# builds
+.next/
+out/
+dist/
+build/
+
+# vercel
+.vercel/
+
+# env
+.env
+.env.local
+.env.production.local
+*.local
+
+# misc
+.DS_Store
+npm-debug.log*
+__pycache__/
+*.pyc
